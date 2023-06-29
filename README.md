@@ -1,2 +1,2 @@
 # SmartTalkAcademy
-Online Training Institute
+Online Training Institute https://github.com/TalkSmartt/SmartTalkAcademy.git
